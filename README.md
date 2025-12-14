@@ -1,6 +1,8 @@
 📊 Exploratory Data Analysis (EDA) Report
 Employee Performance and Salary Analysis
 CodeAlpha Data Analytics Internship – Task 2
+
+
 📌 Project Overview
 
 This Exploratory Data Analysis (EDA) project focuses on analyzing employee performance and salary data to uncover meaningful insights. The objective is to understand how experience, department, and salary relate to employee performance and to identify patterns that can support organizational decision-making.
