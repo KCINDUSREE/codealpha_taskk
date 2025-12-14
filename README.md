@@ -1,4 +1,3 @@
-
 📊 Exploratory Data Analysis (EDA) Report
 Employee Performance and Salary Analysis
 CodeAlpha Data Analytics Internship – Task 2
@@ -30,19 +29,6 @@ Matplotlib – Data visualization
 
 Jupyter Notebook / Command Prompt – Development environment
 
-📂 Dataset Description
-
-The dataset contains employee information across multiple departments and includes both numerical and categorical variables.
-
-Employee ID	Department	Experience (Years)	Monthly Salary	Performance Score
-E001	IT	1	25000	60
-E002	IT	3	40000	72
-E003	HR	2	30000	65
-E004	Finance	5	60000	85
-E005	Finance	7	75000	92
-E006	Marketing	4	45000	78
-E007	Marketing	6	65000	88
-E008	HR	8	70000	90
 ❓ Key Questions for Analysis
 
 Does employee experience influence salary?
